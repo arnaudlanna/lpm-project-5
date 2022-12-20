@@ -1,0 +1,3 @@
+carro;123456;12.0;Combustivel: 
+ - KM/Litro=12.0
+ - Preço por Litro=4.8
